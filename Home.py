@@ -25,19 +25,19 @@ st.markdown("""
 TOOLS = [
     {
         "name": "Translator",
-        "description": "Translate Word documents (.docx) with preview before download. with preview before download.",
+        "description": "Translate Word documents (.docx) into target language and preview before download.",
         "url": "https://translatetext.streamlit.app/",
         "emoji": "🌍"
     },
     {
         "name": "VidIntel",
-        "description": "Experiment with AI agents for planning, executing, and monitoring tasks.",
+        "description": "Search for articles or videos in a target language and export results.",
         "url": "https://vidintel.streamlit.app/",
         "emoji": "🤖"
     },
     {
         "name": "OPI OPS",
-        "description": "Placeholder for your next LangOPs tool. Placeholder for your next LangOPs tool.",
+        "description": "Transcribe mono recorded waves files and download the text.",
         "url": "https://opiops.streamlit.app/",
         "emoji": "🧪"
     }

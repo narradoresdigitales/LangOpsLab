@@ -41,6 +41,12 @@ TOOLS = [
         "url": "https://opiops.streamlit.app/",
         "emoji": "🧪"
     }
+    {
+        "name": "Field Book Lexicon",
+        "description": "Create a field book of useful lexicon.",
+        "url": "https://linguist-lexicon-field-book.streamlit.app/",
+        "emoji": "🧪"
+    }
 ]
 
 # -----------------------------

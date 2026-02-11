@@ -40,7 +40,7 @@ TOOLS = [
         "description": "Transcribe mono recorded waves files and download the text.",
         "url": "https://opiops.streamlit.app/",
         "emoji": "🧪"
-    }
+    },
     {
         "name": "Field Book Lexicon",
         "description": "Create a field book of useful lexicon.",

@@ -45,7 +45,7 @@ TOOLS = [
         "name": "Field Book Lexicon",
         "description": "Create a field book of useful lexicon.",
         "url": "https://linguist-lexicon-field-book.streamlit.app/",
-        "emoji": "🧪"
+        "emoji": "📓 "
     }
 ]
 
